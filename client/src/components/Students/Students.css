@@ -1,0 +1,43 @@
+
+.sekil{
+  overflow: hidden;
+}
+.sekil:hover{
+  transform: scale(1.2);
+}
+.info {
+  display: flex;
+  justify-content: space-between;
+  gap: 80px;
+}
+
+.section3 {
+  text-align: center;
+  margin-top: 10%;
+
+}
+.hdstudent{
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+.student{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.students-part1{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    gap: 40px; 
+    margin-bottom: 40px;
+}
+
+.students-part2{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  gap: 40px; 
+}

@@ -1,0 +1,18 @@
+.hero{
+    background-image: url('https://preview.colorlib.com/theme/gym/img/header-bg.jpg.webp');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    
+}
+.heroinfo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    font-size: x-large;
+}
